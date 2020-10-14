@@ -1,0 +1,5 @@
+{
+    "token":"place your token here",
+    "owners": ["ID", "ID", "ETC"],
+    "serverID": "The ID of your server"
+}

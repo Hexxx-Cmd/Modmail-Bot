@@ -1,0 +1,23 @@
+{
+  "name": "modmail",
+  "version": "1.0.0",
+  "description": "Developed by Vi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "bot",
+    "modmail",
+    "ticket",
+    "v12"
+  ],
+  "author": "Vi",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "discord.js": "^12.2.0",
+    "path": "^0.12.7"
+  }
+}
